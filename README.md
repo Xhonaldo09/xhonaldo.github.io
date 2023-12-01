@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>POPULLSIA</title>
+</head>
+<body>
+    <h2>popullsia</h2>
+    <table border="2">
+        <tr>
+            <th>qyteti</th>
+            <th>viti</th>
+            <th>numri</th>
+        </tr>
+        <tr>
+            <td>tiran</td>
+            <td>2020</td>
+            <td>20,000</td>
+        </tr>
+        <tr>
+            <td>durres</td>
+            <td>2020</td>
+            <td>11,000</td>
+        </tr>
+        <tr>
+            <td>sarand</td>
+            <td>2020</td>
+            <td>15,000</td>
+        </tr>
+    </table>
+</body>
+</html>
